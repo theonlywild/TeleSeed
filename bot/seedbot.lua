@@ -232,32 +232,37 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {196791585,127158151,103788804,131702074,0,0,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
+    about_text = [[-  roohsavar v4  -
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/SEEDTEAM/TeleSeed
+            Github
+https://github.com/theonlywild/roohsavar
 
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
+⚜Admins⚜
 
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+🔶 @lonelywild [Founder]
 
-Our channels
-@teleseedch [English]
-@iranseed [persian]
+🔶 @ShadowAdmin [Manager]
 
-Our website 
-http://teleseed.seedteam.org/
+🔶 @mehdi_killer78 [Manager]
+
+🔶 @nofucking  [Manager]
+
+❤️Special thanks to❤️
+
+❣ThisIsamirh❣
+
+❣Milad_az❣
+
+❣Amin826❣
+
+✌Our channels✌
+
+@roohsavarTeam [persian]
+
+🇮🇷 made in iran 🇮🇷
 ]],
     help_text_realm = [[
 Realm Commands:
